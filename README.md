@@ -4,7 +4,7 @@ YouTube (the world-famous video sharing website) maintains a List of the top tre
 This dataset is a daily record of the top trending YouTube videos. The dataset is public available on https://www.kaggle.com/datasnaek/youtube-new
 
 
-The project has two parts. The first part is Trending Youtube videos data ETL by Spark and python, leverage AWS Redshift. The second part is using Keras LSTM to do time series prediction on trending vidoes views(likes, dislikes, comment_counts).
+The project has two parts. The first part is Trending Youtube videos data ETL by Spark and python, leveraging AWS Redshift. The second part is using Keras LSTM to do time series prediction on trending vidoes views(likes, dislikes, comment_counts).
 
 
 ## File Descriptions
