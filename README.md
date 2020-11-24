@@ -8,12 +8,14 @@ The project has two parts. The first part is Trending Youtube videos data ETL by
 
 
 ## File Descriptions
-There are 3 python files implement the product.
+There are 4 python files implement the product.
 
 github_youtube_etl.ipynb--Trending Youtube videos data ETL(the first part of the project).
 
+sql_queries.py--DLL,DML and queries for creating tables and droping tables in AWS Redshift.(the first part of the project)
+
 kaggle_lstm-prediction-on-trending-youtube-videos-views.ipynb--Trending predictions by Keras LSTM(the second part of the project).
 
-sql_queries.py--DLL,DML and queries for creating tables and droping tables in AWS Redshift.
+lstm-prediction-on-trending-views-by-pytorch.ipynb--Trending predictions modeling by Pytorch.(another implementation)
 
 
